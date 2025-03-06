@@ -1,6 +1,6 @@
 {
   "name": "everything-is-shit",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Browser utility to show annoying error messages.",
   "main": "index.js",
   "browser": "index.js",
