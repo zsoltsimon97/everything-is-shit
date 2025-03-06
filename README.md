@@ -11,6 +11,8 @@ $ npm install --save everything-is-shit
 ```
 
 ## Usage
+[Try on CodePen](https://codepen.io/zsoltsimon97/pen/raNwBaG)
+
 ```js
 import { showShitMessage, removeShitMessage } from 'everything-is-shit';
 ```
