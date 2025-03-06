@@ -1,0 +1,14 @@
+{
+  "name": "everything-is-shit",
+  "version": "1.0.0",
+  "description": "Browser utility to show annoying error messages.",
+  "main": "index.js",
+  "browser": "index.js",
+  "homepage": "https://github.com/zsoltsimon97/everything-is-shit",
+  "author": "Zsolt Simon (https://github.com/zsoltsimon97)",
+  "repository": "zsoltsimon97/everything-is-shit",
+  "license": "MIT",
+  "files": [
+    "index.js"
+  ]
+}
